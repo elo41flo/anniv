@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Enveloppe — Pour Célia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/envelope.css" />
+</head>
+<body class="envelope-page">
+
+  <a href="index.html" class="back-link">← Retour</a>
+
+  <!-- ÉTAPE 1 : animation d'ouverture -->
+  <div class="seal-screen" id="seal-screen">
+    <div class="envelope-wrapper" id="envelope-wrapper">
+      <div class="env-body">
+        <div class="env-flap" id="env-flap"></div>
+        <div class="env-left"></div>
+        <div class="env-right"></div>
+        <div class="env-bottom"></div>
+        <div class="seal" id="seal">✦</div>
+      </div>
+    </div>
+    <p class="seal-hint" id="seal-hint">Clique pour ouvrir</p>
+  </div>
+
+  <!-- ÉTAPE 2 : le message -->
+  <div class="letter-screen" id="letter-screen">
+    <div class="letter-container">
+      <p class="letter-eyebrow" id="letter-date"></p>
+      <h1 class="letter-subject" id="letter-subject"></h1>
+      <div class="letter-divider"></div>
+      <p class="letter-message" id="letter-message"></p>
+      <p class="letter-signature">Avec tout mon amour 🤍</p>
+    </div>
+  </div>
+
+  <script src="js/envelope.js"></script>
+</body>
+</html>

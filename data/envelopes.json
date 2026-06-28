@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "date": "2019-09-03",
+    "label": "Notre rencontre",
+    "icon": "🌟",
+    "special": true,
+    "subject": "Le jour où tout a commencé…",
+    "message": "Quand je t'ai rencontré, jamais je me serais dit que tu deviendrais aussi importante à mes yeux. Et pourtant tu es devenue une de mes personnes préférées sur cette terre. C'est pourquoi je t'ai créé ce site, un espace rien que pour toi. J'espère que tu apprécieras cette petite attention de ma part."
+  },
+  {
+    "id": 1,
+    "date": "2026-07-01",
+    "label": "Juillet",
+    "icon": "☀️",
+    "special": false,
+    "subject": "Je suis fière de toi",
+    "message": "Je sais pas si je te l'ai déjà dit, mais je suis fière de toi, fière de tout ce que tu as traversé dans le silence. Parce que je suis sûre qu'il y a des choses que tu as subies seule… J'admire chez toi cette façon de gérer les choses. Aussi dure que la vie puisse être, tu ne baisses jamais les bras, tu es toujours là, au maximum, présente pour ton entourage, pour les gens que tu aimes. Je suis admirative de ta force. Et je voulais que tu saches aujourd'hui que je suis fière de toi."
+  },
+  {
+    "id": 2,
+    "date": "2026-08-01",
+    "label": "Août",
+    "icon": "🌊",
+    "special": false,
+    "subject": "Ce que tu m'as appris",
+    "message": "Tu ne le sais sûrement pas, mais tu m'as permis d'apprendre beaucoup de choses de la vie. La résilience par exemple. Apprendre à aimer correctement quelqu'un. Ou encore s'excuser, et revenir vers les gens qu'on aime quand on sait qu'on a merdé. Depuis que tu es entrée dans ma vie, la vie est moins douloureuse. Merci pour ça, ma star."
+  },
+  {
+    "id": 3,
+    "date": "2026-09-03",
+    "label": "Notre rencontre",
+    "icon": "🌟",
+    "special": true,
+    "subject": "Ma personne préférée",
+    "message": "Tu le sais sûrement, mais tu es ma personne préférée. Pourquoi ? Parce que tu me fais rire, tu prends soin de moi, tu me donnes l'attention dont j'ai besoin, même quand je te le demande pas forcément. Je t'en suis tellement reconnaissante. Merci d'être là, merci d'être dans ma vie. Merci tout simplement. Je t'aime fort."
+  },
+  {
+    "id": 4,
+    "date": "2026-10-01",
+    "label": "Octobre",
+    "icon": "🍂",
+    "special": false,
+    "subject": "Une lettre pour les jours gris d'octobre",
+    "message": "Tu sais ? Tu es belle. Moi je te trouve belle. Et si un jour quelqu'un essaie de te faire croire le contraire, souviens-toi que ce n'est pas la bonne personne. Ne change pas pour les gens, la bonne personne ce sera celle qui t'aimera comme tu es. Avec tes qualités et tes défauts (même si t'en as pas beaucoup aha). Tu es parfaite comme tu es mon chat, n'oublie jamais ça !"
+  },
+  {
+    "id": 5,
+    "date": "2026-11-01",
+    "label": "Novembre",
+    "icon": "🕯️",
+    "special": false,
+    "subject": "Pour toi, juste pour toi",
+    "message": "Prends le temps d'aimer la vie, de l'apprécier. Je sais que parfois la vie peut devenir compliquée, nulle, chiante, mais elle vaut le coup d'être vécue, je te le promets. Savoure chaque moment que la vie t'offre, profite, vis. Souris à chaque fois que tu en as l'occasion, parce qu'on ne sait pas de quoi sera fait demain. (PS : T'es + belle quand tu souris !)"
+  },
+  {
+    "id": 6,
+    "date": "2026-12-01",
+    "label": "Décembre",
+    "icon": "❄️",
+    "special": false,
+    "subject": "Les choses que je nous souhaite",
+    "message": "Je nous souhaite à toutes les deux d'aller mieux. De faire de belles rencontres dans le futur. De continuer de grandir, d'apprendre de nos erreurs mais aussi de nos réussites. J'espère aussi que le futur ne nous frappera pas trop fort, encore une fois. Et pour finir, j'espère qu'on finira toutes les deux par aller mieux."
+  },
+  {
+    "id": 7,
+    "date": "2027-01-01",
+    "label": "Janvier",
+    "icon": "🌙",
+    "special": false,
+    "subject": "Un nouveau départ",
+    "message": "Une nouvelle année, un nouveau départ, encore une fois. Et pourtant j'espère que cette année sera plus douce que celle d'avant. Tu mérites qu'elle soit plus douce en tout cas. Tu mérites d'être aimée (au moins autant que je t'aime, sinon c'est un plouc... Et c'est pas oke). Une année de plus, et pourtant je t'aime comme à notre premier câlin."
+  },
+  {
+    "id": 8,
+    "date": "2027-02-01",
+    "label": "Février",
+    "icon": "🤍",
+    "special": false,
+    "subject": "Tu n'es jamais seule",
+    "message": "Chaque fois que tu crois être seule, sache que tu as juste à m'appeler parce que je serai toujours là pour ma personne préférée. Tu ne seras jamais seule parce que je serai toujours là, peu importe ce qui arrivera dans le futur. Je t'aime et je t'aimerai pour toujours. Et si un jour ça va pas, pour n'importe quelle raison, peu importe l'heure, appelle-moi, parce que je préfère te répondre à 3h du matin plutôt que de savoir que tu étais triste ou pas bien toute la nuit."
+  },
+  {
+    "id": 9,
+    "date": "2027-03-01",
+    "label": "Mars",
+    "icon": "🌱",
+    "special": false,
+    "subject": "Tout ce que tu ne vois pas de toi",
+    "message": "Je suis sûre que tu as plein de qualités que tu n'as jamais remarquées chez toi ! Par exemple ton sourire, genre meuf il est trop incroyable ! Ensuite, tes mains (oui bon on dirait un big psychopathe (j'accorde)) mais elles sont trop belles ! Et ton caractère, j'avoue des fois t'es chiante un peu, mais en vrai j'adore comment tu fonctionnes, si quelque chose te fait chier, tu le dis et t'as pas peur de le dire."
+  },
+  {
+    "id": 10,
+    "date": "2027-04-18",
+    "label": "Tes 21 ans",
+    "icon": "✨",
+    "special": false,
+    "subject": "Bon anniversaire !!!",
+    "message": "Bon anniversaire princesse ! Joyeux 21 ans ! Je t'aime, profite bien de ta journée ! Bisoussss"
+  }
+]
